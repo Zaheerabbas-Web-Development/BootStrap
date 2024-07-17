@@ -1,0 +1,28 @@
+.box {
+    width: 80px;
+    height: 77px;
+    border-radius: 50%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    color: white;
+    margin-bottom: 20px;
+    position: absolute;
+    top: -70px;
+    left: 120px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 1px solid #00000030;
+    
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    margin: 30px;
+
+}
+
+.text-center {
+    text-align: center;
+}
